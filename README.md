@@ -23,6 +23,13 @@ The "3D Fort with Interactive Features" project simulates a cityscape using Open
 <img width="99" height="114" alt="Turret in rest position with 4 missiles loaded" src="https://github.com/user-attachments/assets/d9c0981c-66cc-46f9-879e-250060ad8ac9" />
 ## Physics Arrow Projectile
 <img width="379" height="380" alt="Missiles in flight with dynamic nose orientation" src="https://github.com/user-attachments/assets/9e8f38d7-084a-4d6e-adbe-9fc595cc79b8" />
+## Video
+https://github.com/user-attachments/assets/aaba7925-c80b-4c7f-ad10-658df2cada46
+## Report and Presentation
+[Uploading 2007118_Report_3D_Fort.pdf…]()
+
+
+
 
 
 

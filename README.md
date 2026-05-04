@@ -1,10 +1,13 @@
 ## Introduction
 The "3D Fort with Interactive Features" project simulates a cityscape using OpenGL, blending aesthetics and interactivity. 
 <img width="1440" height="812" alt="3D Fort: Interactive Medieval Castle Simulation — overall view" src="https://github.com/user-attachments/assets/ca98892a-49ed-43bf-aeb3-4f09ba4d79f9" />
+
 ## Bezier Surfaces of Revolution
 <img width="143" height="346" alt="Onion-dome pillar generated as a hollow Bézier surface of revolution" src="https://github.com/user-attachments/assets/cbcb8cd0-100d-4aac-88e5-d936045edf8e" />
+
 ## Fractal Tree Generation
 <img width="729" height="501" alt="Solid-cylinder fractal tree generated via recursive geometry with foliage spheres at leaf nodes" src="https://github.com/user-attachments/assets/12a8cb92-e2cb-4fe6-9619-335180038524" />
+
 ## Lighting System
 <img width="1100" height="658" alt="All lights OFF" src="https://github.com/user-attachments/assets/8a6646ab-8928-4bb5-aa21-9bcc83ff9c91" />
 <img width="1440" height="812" alt="All lights ON" src="https://github.com/user-attachments/assets/dc40944e-dc68-46aa-bfb7-24c34fc65c08" />
